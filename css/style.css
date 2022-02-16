@@ -1,0 +1,14 @@
+.d-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  flex-direction: column;
+}
+.img {
+  width: 200px;
+  height: 200px;
+}
+.mt {
+  margin-top: 30px;
+}
